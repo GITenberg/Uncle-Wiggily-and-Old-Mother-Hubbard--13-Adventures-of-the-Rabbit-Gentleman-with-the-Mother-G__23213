@@ -1,0 +1,35 @@
+_repo: Uncle-Wiggily-and-Old-Mother-Hubbard--13-Adventures-of-the-Rabbit-Gentleman-with-the-Mother-G__23213
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23213-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Uncle Wiggily (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Rabbits -- Juvenile fiction'
+title: "Uncle Wiggily and Old Mother Hubbard\r\nAdventures of the Rabbit Gentleman\
+  \ with the Mother Goose Characters"
+url: http://www.gutenberg.org/ebooks/23213
